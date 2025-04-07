@@ -1,5 +1,3 @@
-# securespot_app
-
 # SecureSpot
 
 A secure location tracking application with mobile frontend with integration of Python backend.
@@ -20,7 +18,7 @@ The project consists of Frontend component:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/securespotapp.git
+https://github.com/secure-spot/securespot_app.git
 ```
 
 2. Navigate to the project directory:
